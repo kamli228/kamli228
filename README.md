@@ -1,4 +1,4 @@
-## Hi, I'm Andrei 👋
+## Hi, I'm Andrei
 
 Computer Science student at the University of Vienna. I build backends in Python and Rust.
 
