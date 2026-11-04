@@ -15,13 +15,13 @@ property-based tests and a live order book in the browser.
 ~4.3M commands/s, p99 latency 0.7 µs.
 
 ### 🧰 Tech
-**Languages:** Python · Rust · C++ · JavaScript / TypeScript · SQL
-**Backend:** FastAPI · REST · WebSocket · Tokio · Axum · asyncio
-**Data & storage:** PostgreSQL · SQLAlchemy · pandas · NumPy
-**Automation & scraping:** Playwright · BeautifulSoup · requests
-**Tools:** Git · GitHub Actions · Docker · Linux · Bash
+**- Languages:** Python · Rust · C++ · JavaScript / TypeScript · SQL
+**- Backend:** FastAPI · REST · WebSocket · Tokio · Axum · asyncio
+**- Data & storage:** PostgreSQL · SQLAlchemy · pandas · NumPy
+**- Automation & scraping:** Playwright · BeautifulSoup · requests
+**- Tools:** Git · GitHub Actions · Docker · Linux · Bash
 
 ### 🌍 Languages
-German (C1) · English (C1) · Russian (native)
+German (C1) · English (C1) · Mandarin (A2) · Russian (native)
 
 📍 Vienna, Austria · [LinkedIn](https://www.linkedin.com/in/andrei-makarov2)
